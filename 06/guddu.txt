@@ -1,0 +1,26 @@
+I am Guddu Kumar future Software Engineer.
+I am learning Node.js and Express.js.
+I am a full stack developer.
+I am a MERN stack developer.
+I am a JavaScript developer.
+I am a Python developer.
+I am a C++ developer.
+I am a C# developer.
+I am a Java developer.
+I am a PHP developer.
+I am a Ruby developer.
+I am a Swift developer.
+I am a Kotlin developer.
+I am a Go developer.
+I am a Rust developer.
+I am a TypeScript developer.
+I am a Dart developer.
+I am a Flutter developer.
+I am an Android developer.
+I am an iOS developer.
+I am a React Native developer.
+I am a Xamarin developer.
+I am a Cordova developer.
+I am an Ionic developer.
+I am a PhoneGap developer.
+I am an Electron developer.
