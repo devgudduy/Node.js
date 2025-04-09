@@ -3,7 +3,6 @@ var a = 20;
 var b = 30;
 var c = 50;
 // console.log(a + b + c);
-
 // console.warn("This is a warning");
 // console.error("This is an error");
 
