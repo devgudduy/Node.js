@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile Page</title>
+  </head>
+  <body style="background-color: black; color: white">
+    <%- include('common/header') %> // This line includes the header file
+    <h1>Hello Coder!</h1>
+    <h2>Welcome <%= user.name %></h2>
+    <h2>Age: <%= user.age %></h2>
+    <h2>Location: <%= user.location %></h2>
+    <h2>
+      <ul>
+        Skills: <% user.skills.forEach((item)=>{ %>
+        <li><%= item %></li>
+        <% }) %>
+      </ul>
+    </h2>
+  </body>
+</html>
