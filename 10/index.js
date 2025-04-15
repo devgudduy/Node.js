@@ -6,7 +6,7 @@ let waitingData = new Promise((res, rej) => {
     res(150);
   }, 2000);
 });
-676
+
 waitingData.then((data) => {
   b = data;
   console.log(a + b);
