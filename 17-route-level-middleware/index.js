@@ -3,7 +3,6 @@ const reqFilter = require("./middleware");
 const app = express();
 const port = 5000;
 const route = express.Router();
-
 // app.use(reqFilter);
 route.use(reqFilter);
 app.get("/", (req, res) => {
