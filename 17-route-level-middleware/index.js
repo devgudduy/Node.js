@@ -5,7 +5,6 @@ const port = 5000;
 const route = express.Router();
 
 // app.use(reqFilter);
-
 route.use(reqFilter);
 app.get("/", (req, res) => {
   res.send("Hello World! Nice to see you! Coders!");
