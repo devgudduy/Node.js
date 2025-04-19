@@ -16,7 +16,6 @@ app.get("/about", (req, res) => {
 app.get("/help", (req, res) => {
   res.sendFile(`${publicPath}/help.html`);
 });
-
 // app.get("*", (req, res) => {
 //   res.sendFile(`${publicPath}/4O4.html`);
 // });
