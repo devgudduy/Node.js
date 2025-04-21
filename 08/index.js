@@ -20,6 +20,5 @@ fs.appendFile(filePath, " and carrot is a vegetable.", (err) => {
 // fs.rename(filePath, `${dirPath}/fruit.txt`, (err) => {
 //   if (!err) console.log("File renamed successfully.");
 // });
-
 // Delete File
 fs.unlinkSync(`${dirPath}/fruit.txt`);
