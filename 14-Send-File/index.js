@@ -21,5 +21,4 @@ app.get("/help", (req, res) => {
 // });
 
 // app.use(express.static(publicPath));
-
 app.listen(5000);
