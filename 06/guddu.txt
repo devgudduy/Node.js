@@ -11,7 +11,6 @@ I am a PHP developer.
 I am a Ruby developer.
 I am a Swift developer.
 I am a Kotlin developer.
-I am a Go developer.
 I am a Rust developer.
 I am a TypeScript developer.
 I am a Dart developer.
