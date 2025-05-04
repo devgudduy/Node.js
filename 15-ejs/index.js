@@ -18,7 +18,6 @@ app.get("/profile", (req, res) => {
 
   res.render("profile", { user });
 });
-
 app.get("/about", (req, res) => {
   res.sendFile(`${publicPath}/about.html`);
 });
