@@ -1,4 +1,5 @@
 const data = [
+  
   {
     name: "Guddu Kumar",
     email: "gudduk23@gmail.com",
