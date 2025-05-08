@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require("path");
 const dirPath = path.join(__dirname, "crud");
 const filePath = `${dirPath}/mango.txt`;
-
 // Write File
 // fs.writeFileSync(filePath, "mango is a fruit.");
 
