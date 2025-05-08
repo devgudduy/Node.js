@@ -10,7 +10,6 @@ const filePath = `${dirPath}/mango.txt`;
 // fs.readFile(filePath, "utf8", (err, item) => {
 //   console.log(item);
 // });
-
 // Append File
 fs.appendFile(filePath, " and carrot is a vegetable.", (err) => {
   if (!err) console.log("File updated successfully.");
