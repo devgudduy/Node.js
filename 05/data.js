@@ -11,6 +11,7 @@ const data = [
     email: "rohitk23@gmail.com",
     age: 22,
     contact: 12338827890,
+    
   },
   {
     name: "Manish Kumar",
