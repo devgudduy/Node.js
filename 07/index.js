@@ -4,6 +4,7 @@ const dirPath = path.join(__dirname, "files"); // Creating a path to the 'notes'
 // for (i = 0; i < 5; i++) {
 //   fs.writeFileSync(dirPath + "/note" + i + ".txt", "This is note number " + i); // Writing files in the 'notes' directory
 // }
+
 fs.readdir(dirPath, (err, files) => {
   files.forEach((file) => {
     console.log("file name is: ", file);
