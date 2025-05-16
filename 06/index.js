@@ -1,5 +1,4 @@
 // console.log(process.argv[1]);
-
 const fs = require("fs");
 const input = process.argv;
 if (input[2] === "add") {
