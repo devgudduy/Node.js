@@ -6,7 +6,6 @@
 // console.log("complete exe...");
 let a = 10;
 let b = 20;
-
 setTimeout(() => {
   b = 30;
 }, 2000);
