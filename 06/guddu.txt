@@ -1,7 +1,7 @@
 I am Guddu Kumar future Software Engineer.
 I am learning Node.js and Express.js.
 I am a full stack developer.
-I am a MERN stack developer..
+I am a MERN stack developer.
 I am a JavaScript developer.
 I am a Python developer.
 I am a C++ developer.
