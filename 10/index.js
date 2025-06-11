@@ -7,8 +7,6 @@ let waitingData = new Promise((res, rej) => {
   }, 2000);
 });
 
-
-
 waitingData.then((data) => {
   b = data;
   console.log(a + b);
