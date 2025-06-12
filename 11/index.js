@@ -1,7 +1,6 @@
 console.log("stating up");
 
 
-
 setTimeout(() => {
   console.log("2 seconds later");
 }, 2000);
