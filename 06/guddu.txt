@@ -22,4 +22,3 @@ I am a Xamarin developer.
 I am a Cordova developer.
 I am an Ionic developer.
 I am a PhoneGap developer.
-I am an Electron developer.
