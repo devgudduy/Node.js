@@ -14,6 +14,7 @@ app.get("", (req, res) => {
   res.render("home");
 });
 
+
 app.get("/profile", (req, res) => {
   const user = {
     name: "John Doe",
