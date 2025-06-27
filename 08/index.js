@@ -5,6 +5,8 @@ const filePath = `${dirPath}/mango.txt`;
 // Write File
 // fs.writeFileSync(filePath, "mango is a fruit.");
 
+
+
 // Read File
 // fs.readFile(filePath, "utf8", (err, item) => {
 //   console.log(item);
