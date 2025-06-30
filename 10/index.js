@@ -1,6 +1,7 @@
 let a = 50;
 let b = 140;
 
+
 let waitingData = new Promise((res, rej) => {
   setTimeout(() => {
     res(150);
