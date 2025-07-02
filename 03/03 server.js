@@ -7,6 +7,4 @@ const myFunction = (req, res) => {
   res.end();
 };
 
-
-
 http.createServer(myFunction).listen(4000);
